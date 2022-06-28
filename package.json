@@ -1,0 +1,20 @@
+{
+  "name": "graphql-server-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "dotenv": "^16.0.1",
+    "graphql": "^16.4.0",
+    "lodash": "^4.17.21",
+    "sequelize": "^6.19.0",
+    "tedious": "^14.5.0"
+  }
+}
